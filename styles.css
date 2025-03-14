@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('2.png');
+    background-image: url(img/2.png);
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
