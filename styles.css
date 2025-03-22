@@ -34,9 +34,9 @@ section {
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80px;
-    width: 110%;
-    height: 606px;
+    border-radius: 40px;
+    width: 100%;
+    height: 605.px;
     padding: 40px;
     margin: 0 auto;
 }
